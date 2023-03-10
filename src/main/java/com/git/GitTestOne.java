@@ -6,4 +6,7 @@ package com.git;
  * @date 2023/3/11 1:05
  */
 public class GitTestOne {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
 }
