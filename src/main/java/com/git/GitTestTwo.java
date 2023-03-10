@@ -6,4 +6,7 @@ package com.git;
  * @date 2023/3/11 1:07
  */
 public class GitTestTwo {
+    public static void main(String[] args) {
+        System.out.println("third");
+    }
 }
