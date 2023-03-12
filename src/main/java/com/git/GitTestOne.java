@@ -9,5 +9,6 @@ public class GitTestOne {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("0313 first online change");
+        System.out.println("0313 second online change");
     }
 }
